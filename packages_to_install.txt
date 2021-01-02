@@ -1,0 +1,9 @@
+chromium-browser
+sublime-text # Will need to add package repo and such
+vlc
+discord # Will need to download the .deb
+tlp # Some sort of install-and-forget power optimizing utility
+ttf-mscorefonts-installer # Microsoft's fonts, such as Times New Roman (wowie!)
+steam # Yes as in Valve's Steam
+net-tools # Pretty sure this is what has ifconfig in it
+git

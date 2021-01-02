@@ -1,0 +1,10 @@
+appcenter
+maya-calendar
+io.elementary.code
+epiphany-browser
+pantheon-mail
+noise # Music
+audience # Videos
+switchboard-plug-online-accounts
+switchboard-plug-parental-controls
+switchboard-plug-sharing

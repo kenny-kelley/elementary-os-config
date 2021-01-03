@@ -7,6 +7,7 @@ ttf-mscorefonts-installer # Microsoft's fonts, such as Times New Roman (wowie!)
 steam # Yes as in Valve's Steam
 net-tools
 git
+gnome-disk-utility
 
 # Install all these packages *before* restarting X.Org:
 xserver-xorg-core

@@ -9,6 +9,7 @@ net-tools
 git
 gnome-disk-utility
 firmware-b43-installer
+lm-sensors
 
 # Install all these packages *before* restarting X.Org:
 xserver-xorg-core

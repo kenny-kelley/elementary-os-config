@@ -5,3 +5,5 @@ There are notes of the packages I want install/remove via `apt`. Rather than wri
 Other files might be settings tweaks or scripts.
 
 As of writing, this was for elementary OS 5.1.7 (Hera), which is built on top of Ubuntu 18.04.4 LTS.
+
+I definitely stole `50-mtrack.conf` from somewhere.

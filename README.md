@@ -6,4 +6,4 @@ Other files might be settings tweaks or scripts.
 
 As of writing, this was for elementary OS 5.1.7 (Hera), which is built on top of Ubuntu 18.04.4 LTS.
 
-I definitely stole `50-mtrack.conf` from somewhere.
+I definitely stole `50-mtrack.conf` from somewhere. It needs to be placed in `/usr/share/X11/xorg.conf.d/`.

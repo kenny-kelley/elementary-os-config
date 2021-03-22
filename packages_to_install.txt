@@ -1,4 +1,3 @@
-chromium-browser
 sublime-text # Will need to add package repo and such
 vlc
 discord # Will need to download the .deb
